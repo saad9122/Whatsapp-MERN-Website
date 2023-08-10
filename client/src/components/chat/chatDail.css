@@ -1,0 +1,7 @@
+div.left-side {
+    min-width: 410px;
+    height: 100vh;
+}
+div.right-side {
+    width: 100%;
+}
